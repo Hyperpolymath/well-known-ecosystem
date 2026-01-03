@@ -1,9 +1,11 @@
+image:https://img.shields.io/badge/License-MPL_2.0-blue.svg[MPL-2.0,link="https://opensource.org/licenses/MPL-2.0"]
+image:https://img.shields.io/badge/Philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
+
 // SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
 // SPDX-FileCopyrightText: 2024-2025 hyperpolymath
 
 = Well-Known Ecosystem
 
-image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[AGPL-3.0,link="https://www.gnu.org/licenses/agpl-3.0"] image:https://img.shields.io/badge/philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
 :author: hyperpolymath
 :revdate: 2025-12-26
 :toc: macro
@@ -15,7 +17,6 @@ image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[AGPL-3.0,link="htt
 :url-rfc9116: https://www.rfc-editor.org/rfc/rfc9116.html
 :url-iana-wellknown: https://www.iana.org/assignments/well-known-uris/
 
-image:https://img.shields.io/badge/License-MIT%20OR%20AGPL--3.0-blue.svg[License]
 image:https://img.shields.io/badge/RFC-8615-blue.svg[RFC 8615, link={url-rfc8615}]
 image:https://img.shields.io/badge/RFC-9116-blue.svg[RFC 9116, link={url-rfc9116}]
 
